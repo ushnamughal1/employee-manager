@@ -3,7 +3,7 @@
  * Plugin Name: Employee Manager
  * Description: A plugin to manage employees with custom fields, CSV export, and average salary AJAX.
  * Version: 1.0
- * Author: Your Name
+ * Author: Ushna Mughal
  */
 
 if (!defined('ABSPATH')) exit;
